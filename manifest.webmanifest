@@ -1,6 +1,6 @@
 {
-  "name": "Aura",
-  "short_name": "Aura",
+  "name": "Atria",
+  "short_name": "Atria",
   "description": "Alex's nursing command center",
   "start_url": "./index.html",
   "scope": "./",
